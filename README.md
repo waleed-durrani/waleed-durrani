@@ -4,17 +4,17 @@
   
 # 👋 Hi, I'm Waleed!
 
-#### ✍️ I'm the creator of _**#InsTech**_, a Tech and AI-focused newsletter on _**[LinkedIn](https://bit.ly/InsTechSub)**_ & _**[Substack](https://bit.ly/subProf)**_. 
-
-#### 🔎📈 Leveraging content strategy, I focus on growth, brand awareness, and building trust through insightful Tech & AI content.
-
-<br />
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/44p8hmZ)
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://substack.com/@instech)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://bit.ly/ibtd)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@wallikhan76)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wallikhan76@gmail.com)
+
+#### ✍️ I'm the creator of _**#InsTech**_, a Tech and AI-focused newsletter on _**[LinkedIn](https://bit.ly/InsTechSub)**_ & _**[Substack](https://bit.ly/subProf)**_. 
+
+#### 🔎📈 Leveraging content strategy, I focus on growth, brand awareness, and building trust through insightful Tech & AI content.
+
+<br />
 
 </div>
 

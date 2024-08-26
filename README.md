@@ -38,12 +38,6 @@ With 5 years of remote experience at StackShare (now acquired by FOSSA), I've cu
 https://github.com/user-attachments/assets/10cea246-acc3-4d37-964e-5c57651944f5
 
 
-https://github.com/user-attachments/assets/96fcbadb-aa63-41c2-bc7d-9da8a4650bf0
-
-https://github.com/user-attachments/assets/21e23e53-80cf-4a09-9c1f-e7c87aa2bccb
-
-
-
 <!--
 
 https://github.com/user-attachments/assets/96fcbadb-aa63-41c2-bc7d-9da8a4650bf0

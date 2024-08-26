@@ -4,7 +4,9 @@
   
 # 👋 Hi, I'm Waleed!
 
-#### I'm the creator of _**#InsTech**_, a Tech and AI-focused newsletter on _**[LinkedIn](https://bit.ly/InsTechSub)**_ & _**[Substack](https://bit.ly/subProf)**_. My journey in the tech industry has been marked by a passion for innovation and a commitment to delivering high-quality content.
+#### ✍️ I'm the creator of _**#InsTech**_, a Tech and AI-focused newsletter on _**[LinkedIn](https://bit.ly/InsTechSub)**_ & _**[Substack](https://bit.ly/subProf)**_. 
+
+#### 🔎📈 Leveraging content strategy, I focus on growth, brand awareness, and building trust through insightful Tech & AI content.
 
 <br />
 

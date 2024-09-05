@@ -50,13 +50,16 @@ With 5 years of remote experience at StackShare (now acquired by FOSSA), I've cu
 
 ## 🔔🔁 Keep Supporting #InsTech; It means a lot to us
 
-- 1️⃣ ***[1st Edition](https://bit.ly/4dARuR6)*** (Published: Aug 8, 2024) | ***[[Download in Booklet Form]](https://www.linkedin.com/feed/update/urn:li:activity:7227732255039713280/)***
+- **[1st Edition](https://bit.ly/4dARuR6)** (Published: Aug 8, 2024)  ↠  **[[⬇️ Download in Booklet Form]](https://www.linkedin.com/feed/update/urn:li:activity:7227732255039713280/)**
 
-- 2️⃣ ***[2nd Edition](https://www.linkedin.com/feed/update/urn:li:ugcPost:7229952731224920064/)*** (Published: Aug 16, 2024) | ***[[Download in Booklet Form]](https://www.linkedin.com/feed/update/urn:li:activity:7231611479899176960/)***
-- 3️⃣ ***[3rd Edition](https://www.linkedin.com/feed/update/urn:li:ugcPost:7234610728744214533/)*** (Published: Aug 28, 2024)
-- 🔥 _**[Growth Spotlight: #InsTech's Top Performing Open-Source Repos!](https://www.linkedin.com/feed/update/urn:li:activity:7234518867576856576/)**_
+- **[2nd Edition](https://www.linkedin.com/feed/update/urn:li:ugcPost:7229952731224920064/)** (Published: Aug 16, 2024)  ↠  **[[⬇️ Download in Booklet Form]](https://www.linkedin.com/feed/update/urn:li:activity:7231611479899176960/)**
 
-- 🔔 _**[Subscribe  #InsTech](https://bit.ly/InsTechSub)**_
+- **[3rd Edition](https://www.linkedin.com/feed/update/urn:li:ugcPost:7234610728744214533/)*** (Published: Aug 28, 2024)  ↠  **[[⬇️ Download in Booklet Form]](https://www.linkedin.com/posts/muhammad-w_12-latest-and-hidden-tools-you-dont-want-ugcPost-7235335186119315457-tfXp)**
+   
+  
+🔥 _**[Growth Spotlight: #InsTech's Top Performing Open-Source Repos!](https://www.linkedin.com/feed/update/urn:li:activity:7234518867576856576/)**_
+
+🔔 _**[Subscribe  #InsTech](https://bit.ly/InsTechSub)**_
 
 <br />
 

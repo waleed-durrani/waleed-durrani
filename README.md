@@ -23,6 +23,8 @@
 
 </div>
 
+<br />
+
 ## 🏆 Career Achievements & Highlights
 
 With 5 years of remote experience at StackShare (now acquired by FOSSA), I've curated over 220 newsletters reaching 500K subscribers, profiled 6000+ Tech & AI tools (20,000+ pages analyzed), and moderated a community of 1M+ developers.
@@ -30,6 +32,8 @@ With 5 years of remote experience at StackShare (now acquired by FOSSA), I've cu
 📈 I specialize in Tech and AI and have a proven record of driving growth through effective content strategies, amplifying brand awareness, and increasing visibility. My skills attract qualified leads, build trust, and deliver substantial revenue growth, positioning me to add significant value to your team.
 
 <br />
+
+<div align="center">
 
 ## 🎙️👩‍💻 Behind the Code: Open Source Dev Talks | Expert Demos & Advice
 
@@ -40,6 +44,9 @@ With 5 years of remote experience at StackShare (now acquired by FOSSA), I've cu
 
 <a href="https://linkedin.com/feed/update/urn:li:ugcPost:7236427640260165633/"><img src="https://github.com/user-attachments/assets/4e410cbb-1719-491f-bb47-77bade36e464" alt="tutorial" style="width:350px;"></a>
 
+</div>
+
+<br />
 
 ## 🔔🔁 Keep Supporting #InsTech; It means a lot to us
 
@@ -51,15 +58,22 @@ With 5 years of remote experience at StackShare (now acquired by FOSSA), I've cu
 
 - 🔔 _**[Subscribe  #InsTech](https://bit.ly/InsTechSub)**_
 
+<br />
 
-
+<div align="center">
+  
 ## 🐙👨‍💻 Calling All Open Source Devs:
 
-Open Source Devs: I’d love to hear from you! Let's connect for a casual chat, share tips, and showcase your incredible work. Reach out, and let’s make your tools shine! ✨
+#### Open Source Devs: I’d love to hear from you! Let's connect for a casual chat, share tips, and showcase your incredible work. Reach out, and let’s make your tools shine! ✨
 
 📩 Email: wallikhan76@gmail.com
 
 📅 Schedule a Call: https://calendly.com/wallikhan76/30min
+</div>
+
+
+
+
 
 <!--
 

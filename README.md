@@ -17,6 +17,10 @@
 
 <br />
 
+<div align="center">  
+  <video src="https://github.com/user-attachments/assets/e7ad401a-0876-4311-a111-241506c25c70" height="400" />
+</div>
+
 </div>
 
 ## 🏆 Career Achievements & Highlights
@@ -26,6 +30,16 @@ With 5 years of remote experience at StackShare (now acquired by FOSSA), I've cu
 📈 I specialize in Tech and AI and have a proven record of driving growth through effective content strategies, amplifying brand awareness, and increasing visibility. My skills attract qualified leads, build trust, and deliver substantial revenue growth, positioning me to add significant value to your team.
 
 <br />
+
+## 🎙️👩‍💻 Behind the Code: Open Source Dev Talks | Expert Demos & Advice
+
+**[👀🎥 #ScholArxiv's (AI-powered | 📖 Research Papers) Demo by its Creator—Dagmawi Esayas:](https://www.linkedin.com/feed/update/urn:li:activity:7236325384747646977/)**
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7236325384747646977/"><img src="https://github.com/user-attachments/assets/92a442d7-cf18-4b94-a2d0-b267f75f7aa5" alt="tutorial" style="width:350px;"></a>
+
+**👉⬇️ [Here’s How to Download #ScholArxiv on Your Mobile from GitHub:](https://linkedin.com/feed/update/urn:li:ugcPost:7236427640260165633/)**
+
+<a href="https://linkedin.com/feed/update/urn:li:ugcPost:7236427640260165633/"><img src="https://github.com/user-attachments/assets/4e410cbb-1719-491f-bb47-77bade36e464" alt="tutorial" style="width:350px;"></a>
+
 
 ## 🔔🔁 Keep Supporting #InsTech; It means a lot to us
 
@@ -37,8 +51,15 @@ With 5 years of remote experience at StackShare (now acquired by FOSSA), I've cu
 
 - 🔔 _**[Subscribe  #InsTech](https://bit.ly/InsTechSub)**_
 
-https://github.com/user-attachments/assets/10cea246-acc3-4d37-964e-5c57651944f5
 
+
+## 🐙👨‍💻 Calling All Open Source Devs:
+
+Open Source Devs: I’d love to hear from you! Let's connect for a casual chat, share tips, and showcase your incredible work. Reach out, and let’s make your tools shine! ✨
+
+📩 Email: wallikhan76@gmail.com
+
+📅 Schedule a Call: https://calendly.com/wallikhan76/30min
 
 <!--
 
